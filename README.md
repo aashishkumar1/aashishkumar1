@@ -84,7 +84,7 @@ These words best describe my mindset! -->
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abhijeethiwale/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/aashish-kumar-38a2aa218/)
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://aashishkumar-portfolio.netlify.app)
 
