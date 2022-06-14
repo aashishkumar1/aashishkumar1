@@ -1,6 +1,6 @@
 # Hello! 🥖
 
-My name is Aashish Kumar. I am a Full stack web developer from Delhi, India. I have a proficiency in MERN stack and love to create amazing React based projects. Other than that I enjoy playing and watching football. 🥐
+My name is Aashish Kumar. I am a Full stack web developer from Delhi, India. I have a proficiency in MERN stack and I have designed the clone of some of the websites using React, CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale. Other than that I enjoy swimming and cricket. 🥐
 
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
