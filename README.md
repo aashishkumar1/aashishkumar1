@@ -38,7 +38,7 @@ These words best describe my mindset! -->
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/static/v1?label=&message=chakraui&color=282C34&logo=chakraui&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=typescript&color=282C34&logo=typescript&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
 ## 👾  What I am interested in learning at some point
 
