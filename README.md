@@ -42,7 +42,7 @@ These words best describe my mindset! -->
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node-282C34?logo=sass&logoColor=CC6699" alt="Node logo" title="Sass" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Node-282C34?logo=node&logoColor=CC6699" alt="Node logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
